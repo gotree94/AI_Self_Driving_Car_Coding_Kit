@@ -6,8 +6,6 @@
 
 ### 쉴드보드 핀맵 - NUCLEO103RB(STM32F103)
 <img width="583" height="360" alt="shield-001" src="https://github.com/user-attachments/assets/ec8ca6b1-5ed6-4811-b3d9-e735e3ddb7fd" />
-<br>
-
 <img width="583" height="360" alt="shield-002" src="https://github.com/user-attachments/assets/aeb50cd4-19d2-4e73-aff3-e73598c6cc8e" />
 <br>
 
