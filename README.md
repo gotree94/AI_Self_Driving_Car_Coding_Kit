@@ -6,3 +6,6 @@
 
 <img width="1301" height="953" alt="shield-002" src="https://github.com/user-attachments/assets/aeb50cd4-19d2-4e73-aff3-e73598c6cc8e" />
 <br>
+
+### 조립방법
+[AI_CAR.pdf](https://github.com/user-attachments/files/22317684/AI_CAR.pdf)
